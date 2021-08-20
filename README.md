@@ -14,6 +14,13 @@ See https://github.com/monstermac77/vr#MixedVR-Manager
 
 Install this for some automatic environment management (shutting down WMR / base stations etc. automatically).
 
+Configure `config.bat` before installing. Set lighthouse MAC addresses.
+Mine are:
+```
+D2:F8:C6:7C:A3:A2
+DB:A4:D0:19:98:6B
+```
+
 Also see https://github.com/Xavr0k/ChaperoneTweak
 
 ## HMD tracking with Vive Tracker
