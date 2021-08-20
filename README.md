@@ -28,8 +28,26 @@ Also see https://github.com/Xavr0k/ChaperoneTweak
 
 ## HMD tracking with Vive Tracker
 
+### Option 1
+
 See https://github.com/Yersi88/WMR-and-Vive-Tracker for a setup that doesn't rely on
 emulator software (OpenVR Input Emulator).
+
+Configure Vive Tracker to `Steam/config/steamvr.config` (that's my serial there):
+
+```json
+{
+  "steamvr" : {
+    "activateMultipleDrivers" : true,
+  },
+  "TrackingOverrides" : {    
+    "/devices/htc/vive_trackerLHR-45F6A89D" : "/user/head" 
+  }
+}
+```
+
+
+### Option 2
 
 See https://github.com/capilus/HP-Reverb-G2-index-Controller-HTC-vive-tracker-Working-native-Open-VR
 for a setup that uses [OpenVR Input Emulator](https://github.com/matzman666/OpenVR-InputEmulator/releases).
