@@ -14,7 +14,7 @@ DB:A4:D0:19:98:6B
 Serials:
 
 - Right hand: `LHR-5D19A671`
-- Left hand: `LHR-EDDB0C3E`
+- Left hand: `LHR-EDDB0C3E`: [original config](./LHR-EDDB0C3E.json)
 
 
 ## Vive Trackers
