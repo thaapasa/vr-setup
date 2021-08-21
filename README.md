@@ -6,6 +6,7 @@ Original instructions: https://github.com/PumkinSpice/MixedVR/wiki/ReadMe?utm_so
 
 Install [OpenVR Space Calibrator](https://github.com/pushrax/OpenVR-SpaceCalibrator).
 Otherwise SteamVR won't show lighthouse-based stuff.
+To be checked: is it enough just to set `activateMultipleDrivers: true` to `steamvr.config`?
 
 ## MixedVR Manager
 
