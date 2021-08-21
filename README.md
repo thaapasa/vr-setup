@@ -23,6 +23,10 @@ DB:A4:D0:19:98:6B
 
 Also see https://github.com/Xavr0k/ChaperoneTweak
 
+### Lighthouses
+
+You can also manage lighthouses with Lighthouse keeper: https://github.com/rossbearman/lighthouse-keeper
+
 ## HMD tracking with Vive Tracker
 
 ### Option 1
