@@ -26,6 +26,7 @@ Also see https://github.com/Xavr0k/ChaperoneTweak
 ### Lighthouses
 
 You can also manage lighthouses with Lighthouse keeper: https://github.com/rossbearman/lighthouse-keeper
+The MixedVR Manager zip file contains a precompiled version of the lighthouse keeper executable.
 
 ## HMD tracking with Vive Tracker
 
