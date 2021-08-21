@@ -13,7 +13,7 @@ DB:A4:D0:19:98:6B
 
 Serials:
 
-- Right hand: `LHR-5D19A671`
+- Right hand: `LHR-5D19A671`: [original config](./LHR-5D19A671.json)
 - Left hand: `LHR-EDDB0C3E`: [original config](./LHR-EDDB0C3E.json)
 
 
