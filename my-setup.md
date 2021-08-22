@@ -13,10 +13,11 @@ DB:A4:D0:19:98:6B
 
 Serials:
 
-- Right hand: `LHR-5D19A671`: [original config](./LHR-5D19A671.json)
-- Left hand: `LHR-EDDB0C3E`: [original config](./LHR-EDDB0C3E.json)
+- Right hand: `LHR-5D19A671`: [original config](./config/LHR-5D19A671.json)
+- Left hand: `LHR-EDDB0C3E`: [original config](./config/LHR-EDDB0C3E.json)
 
 
 ## Vive Trackers
 
-Serial: `LHR-45F6A89D`: [original config](./LHR-45F6A89D.json)
+Serial: `LHR-45F6A89D`: [original config](./config/LHR-45F6A89D.json)
+[Tuned config](./config/LHR-45F6A89D-tuned-13.json)
