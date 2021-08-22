@@ -1,0 +1,58 @@
+{
+   "DesktopUI" : {
+      "pairing" : "1529,818,800,600,0",
+      "settings_desktop" : "2613,399,800,600,0"
+   },
+   "GpuSpeed" : {
+      "gpuSpeed0" : 2333,
+      "gpuSpeed1" : 2333,
+      "gpuSpeed2" : 2333,
+      "gpuSpeed3" : 2234,
+      "gpuSpeed4" : 2333,
+      "gpuSpeed5" : 2331,
+      "gpuSpeed6" : 2315,
+      "gpuSpeed7" : 2410,
+      "gpuSpeed8" : 2333,
+      "gpuSpeed9" : 2318,
+      "gpuSpeedCount" : 10,
+      "gpuSpeedDriver" : "30.0.14.7168",
+      "gpuSpeedHorsepower" : 2330,
+      "gpuSpeedRenderTargetScale" : 1.5,
+      "gpuSpeedVendor" : "NVIDIA GeForce RTX 3080",
+      "gpuSpeedVersion" : 2
+   },
+   "LastKnown" : {
+      "HMDManufacturer" : "WindowsMR",
+      "HMDModel" : "HP Reverb Virtual Reality Headset G20"
+   },
+   "TrackingOverrides" : {
+      "/devices/htc/vive_trackerLHR-45F6A89D" : "/user/head"
+   },
+   "collisionBounds" : {
+      "CollisionBoundsColorGammaA" : 155,
+      "CollisionBoundsFadeDistance" : 0.69999998807907104,
+      "CollisionBoundsWallHeight" : 2.4200000762939453
+   },
+   "dashboard" : {
+      "lastAccessedExternalOverlayKey" : "steam.overlay.1009850"
+   },
+   "notifications" : {
+      "DoNotDisturb" : true
+   },
+   "steam.app.611670" : {
+      "motionSmoothingOverride" : 0,
+      "resolutionScale" : 100
+   },
+   "steamvr" : {
+      "activateMultipleDrivers" : true,
+      "doNotFadeToGrid" : true,
+      "haveStartedTutorialForNativeChaperoneDriver" : true,
+      "installID" : "15235121203200425807",
+      "lastVersionNotice" : "1.19.7",
+      "lastVersionNoticeDate" : "1629242773",
+      "showAdvancedSettings" : true
+   },
+   "trackers" : {
+      "/devices/htc/vive_trackerLHR-45F6A89D" : "TrackerRole_Camera"
+   }
+}
