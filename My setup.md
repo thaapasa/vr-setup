@@ -19,5 +19,6 @@ Serials:
 
 ## Vive Trackers
 
-Serial: `LHR-45F6A89D`: [original config](./config/LHR-45F6A89D.json)
-[Tuned config](./config/LHR-45F6A89D-tuned-13.json)
+Serial: `LHR-45F6A89D`
+- [original config](./config/LHR-45F6A89D.json)
+- [tuned config](./config/LHR-45F6A89D-tuned-13.json)
