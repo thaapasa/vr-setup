@@ -57,3 +57,10 @@ The patched driver file goes to
 `C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\00vrinputemulator` (or similar).
 
 You probably need to switch to SteamVR Beta Channel in either case.
+
+## Help with gray screen
+
+- https://www.reddit.com/r/MixedVR/comments/jzk65t/wmr_hmd_steam_vr_controllers_causes_grey_screen/
+- https://steamcommunity.com/app/250820/discussions/3/2266942917228868808/
+- https://github.com/pushrax/OpenVR-SpaceCalibrator/issues/18
+- https://github.com/PumkinSpice/MixedVR/wiki/ReadMe#using-steamvr-chaperone-instead-of-wmr-bounds
