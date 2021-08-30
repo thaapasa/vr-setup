@@ -1,22 +1,22 @@
 {
    "DesktopUI" : {
       "pairing" : "1529,818,800,600,0",
-      "settings_desktop" : "2613,399,800,600,0"
+      "settings_desktop" : "2820,1273,800,600,1"
    },
    "GpuSpeed" : {
-      "gpuSpeed0" : 2333,
-      "gpuSpeed1" : 2333,
+      "gpuSpeed0" : 2335,
+      "gpuSpeed1" : 2253,
       "gpuSpeed2" : 2333,
-      "gpuSpeed3" : 2234,
-      "gpuSpeed4" : 2333,
-      "gpuSpeed5" : 2331,
-      "gpuSpeed6" : 2315,
-      "gpuSpeed7" : 2410,
-      "gpuSpeed8" : 2333,
-      "gpuSpeed9" : 2318,
+      "gpuSpeed3" : 2433,
+      "gpuSpeed4" : 2332,
+      "gpuSpeed5" : 2254,
+      "gpuSpeed6" : 2254,
+      "gpuSpeed7" : 2331,
+      "gpuSpeed8" : 2314,
+      "gpuSpeed9" : 2438,
       "gpuSpeedCount" : 10,
       "gpuSpeedDriver" : "30.0.14.7168",
-      "gpuSpeedHorsepower" : 2330,
+      "gpuSpeedHorsepower" : 2316,
       "gpuSpeedRenderTargetScale" : 1.5,
       "gpuSpeedVendor" : "NVIDIA GeForce RTX 3080",
       "gpuSpeedVersion" : 2
@@ -29,9 +29,10 @@
       "/devices/htc/vive_trackerLHR-45F6A89D" : "/user/head"
    },
    "collisionBounds" : {
-      "CollisionBoundsColorGammaA" : 155,
+      "CollisionBoundsColorGammaA" : 165,
       "CollisionBoundsFadeDistance" : 0.69999998807907104,
-      "CollisionBoundsWallHeight" : 2.4200000762939453
+      "CollisionBoundsWallHeight" : 2.5,
+      "enableDriverBoundsImport" : false
    },
    "dashboard" : {
       "lastAccessedExternalOverlayKey" : "steam.overlay.1009850"
@@ -39,7 +40,17 @@
    "notifications" : {
       "DoNotDisturb" : true
    },
+   "power" : {
+      "pauseCompositorOnStandby" : false,
+      "turnOffControllersTimeout" : 600,
+      "turnOffScreensTimeout" : 300
+   },
+   "steam.app.348250" : {
+      "knuckles_250820_CurrentURL_legacy" : "vr-input-workshop://1796183736"
+   },
    "steam.app.611670" : {
+      "knuckles_250820_CurrentURL_legacy" : "vr-input-workshop://1956531378",
+      "knuckles_250820_PreviousURL_legacy" : "vr-input-workshop://2479522471",
       "motionSmoothingOverride" : 0,
       "resolutionScale" : 100
    },
@@ -50,7 +61,9 @@
       "installID" : "15235121203200425807",
       "lastVersionNotice" : "1.19.7",
       "lastVersionNoticeDate" : "1629242773",
-      "showAdvancedSettings" : true
+      "motionSmoothing" : false,
+      "showAdvancedSettings" : true,
+      "showMirrorView" : false
    },
    "trackers" : {
       "/devices/htc/vive_trackerLHR-45F6A89D" : "TrackerRole_Camera"
