@@ -55,9 +55,22 @@ Edit `Steam/config/steamvr.config` and append the following configurations, repl
 
 ## Miscellaneous
 
+### Specs
+
+- [steamvr.vrsettings](https://developer.valvesoftware.com/wiki/SteamVR/steamvr.vrsettings)
+
 ### Help with gray screen
 
 - https://www.reddit.com/r/MixedVR/comments/jzk65t/wmr_hmd_steam_vr_controllers_causes_grey_screen/
 - https://steamcommunity.com/app/250820/discussions/3/2266942917228868808/
 - https://github.com/pushrax/OpenVR-SpaceCalibrator/issues/18
 - https://github.com/PumkinSpice/MixedVR/wiki/ReadMe#using-steamvr-chaperone-instead-of-wmr-bounds
+
+### Performance tips
+
+Stop Holographic shell with (in admin console):
+
+```
+logman query HolographicShell -ets
+logman stop HolographicShell -ets
+```
